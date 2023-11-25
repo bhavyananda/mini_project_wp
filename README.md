@@ -1,1 +1,2 @@
-indx.php is the main file to be executed
+MiniProject>customerside>index.php is the main execution file
+
